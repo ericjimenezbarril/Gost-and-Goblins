@@ -1,0 +1,5 @@
+Nivell 1: Bosc Encantat:  : Zombi   (Zombi)    + Goody  (Ocell) + Escuder (Escuder)
+Nivell 2: Hielo :         : Blue    (Ocell)    + Petite (Ocell)   
+Nivell 3: Escalera Antiguo: Goblin  (Zombi)    + MayFly (Ocell) + Saltarin(Saltarin)  
+Nivell 4: Cueva           : Bat     (Ocell)    + Mort (Escuder)
+Nivell 5: Azul            :  Cerdo  (Escuder) + Red    (Ocell)              
