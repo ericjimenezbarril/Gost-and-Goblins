@@ -28,11 +28,17 @@ Good luck!
 GAME GUIDE:
 
 "left arrow": move left
+
 "right arrow": move right
+
 "up arrow": go up stairs
+
 "down arrow": go down stairs
+
 "w": jump
+
 "s": crouch
+
 "space": shoot
 
 You can find different shields that give you an extra "life".
